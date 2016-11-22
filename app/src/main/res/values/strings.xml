@@ -3,6 +3,10 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="sid_near">              In der Nähe</string>
+    <string name="sid_temporary">              Kurzfristig</string>
+    <string name="sid_permanent">              Dauerhaft</string>
+    <string name="sid_profil">              Dauerhaft</string>
 
     <string name="action_settings">Settings</string>
 </resources>
